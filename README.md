@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Front-End Web Development**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 Currently learning **React.js**
 
 - 📫 How to reach me **shalinisingh2376@gmail.com**
 
