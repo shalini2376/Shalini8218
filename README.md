@@ -1,24 +1,109 @@
-<img   align="center" src = "https://bonze-blog.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2017/08/25004150/github-for-atom.png" >
+<img align="center" src="https://bonze-blog.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2017/08/25004150/github-for-atom.png" width="100%">
+
 <h1 align="center">Hi 👋, I'm Shalini Singh</h1>
-<h2 align="center">A passionate frontend developer from India</h2>
+<h3 align="center">Full Stack Developer (MERN) • Clean Code • Aesthetic Builder</h3>
+
+<p align="center"><em>"Driven by curiosity. Sustained by code."</em></p>
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shalini8218&label=Profile%20views&color=0e75b6&style=flat" alt="shalini2376" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=shalini2376&label=Profile%20views&color=blueviolet&style=flat" /></p>
 
-- 🔭 I’m currently working on **Front-End web Development**.
-  
-- 🌷 Have a nice understanding of **HTML** , **CSS** , **JavaScript**.
+---
 
-- 🌱 Getting a good command on **React.js**.
+## 🌼 About Me  
+- 👩‍💻 MERN Stack Developer  
+- 💡 Building intuitive frontends + reliable backend systems  
+- 🌱 Learning backend architecture, security & authentication  
+- 🎯 Focused on clean code, UI/UX & meaningful projects  
+- ✉️ Reach me at **shalinisingh2376@gmail.com**
 
-- 📫 How to reach me **shalinisingh2376@gmail.com**.
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🚀 Tech Stack
+
+### **Frontend**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### **Tools & Platforms**
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+---
+## 🌐 Connect With Me  
 <p align="left">
-<a href="https://linkedin.com/in/shalini-singh-4287641b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalini-singh-4287641b9" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/shalini-singh-4287641b9" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+     width="40" height="30" />
+  </a>
+</p> 
+---
+
+## 📌 Top Projects
+
+### 🔹 **HRMS Project**
+➡️ Full-stack HR management system with authentication, logs, employee teams  
+🔗 **Repo:** https://github.com/shalini2376/HRMS-Project  
+
+### 🔹 **URL Shortener**
+➡️ Backend system to shorten URLs with analytics  
+🔗 **Repo:** https://github.com/shalini2376/url_shortner  
+
+### 🔹 **Oralvis Healthcare App**
+➡️ Multi-role React app (Technician / Dentist)  
+🔗 **Repo:** https://github.com/shalini2376/oralvis-healthcare  
+
+### 🔹 **TheChefKart**
+➡️ Food ordering website with dynamic menu  
+🔗 **Repo:** https://github.com/shalini2376/TheChefKart  
+
+### 🔹 **E-commerce Website**
+➡️ Responsive ecommerce UI  
+🔗 **Repo:** https://github.com/shalini2376/e-commerce-Website  
+
+### 🔹 **WeatherApp**
+➡️ Weather dashboard using live API  
+🔗 **Repo:** https://github.com/shalini2376/WeatherApp  
+
+### 🔹 **Jobby App**
+➡️ Job listings application (React)  
+🔗 **Repo:** https://github.com/shalini2376/jobbyApp  
+
+---
+
+## 🎯 My Goals  
+- Master MERN stack deeply  
+- Build scalable backend systems  
+- Improve databases & API design  
+- Create more real-world portfolio projects  
+- Improve English & communication  
+- Crack a **Full Stack Developer Opportunity**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shalini2376&show_icons=true&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalini2376&layout=compact&theme=tokyonight" height="180">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalini2376&" alt="shalini8218" /></p>
+<p align="center">
+  <img src="[https://streak-stats.demolab.com/?user=shalini2376&theme=tokyonight](https://streak-stats.demolab.com/?user=shalini2376&theme=default
+)" width="100%">
+</p>
