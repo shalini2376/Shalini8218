@@ -60,17 +60,9 @@
 ➡️ Full-stack HR management system with authentication, logs, employee teams  
 🔗 **Repo:** https://github.com/shalini2376/HRMS-Project  
 
-### 🔹 **URL Shortener**
-➡️ Backend system to shorten URLs with analytics  
-🔗 **Repo:** https://github.com/shalini2376/url_shortner  
-
 ### 🔹 **Oralvis Healthcare App**
 ➡️ Multi-role React app (Technician / Dentist)  
 🔗 **Repo:** https://github.com/shalini2376/oralvis-healthcare  
-
-### 🔹 **TheChefKart**
-➡️ Food ordering website with dynamic menu  
-🔗 **Repo:** https://github.com/shalini2376/TheChefKart  
 
 ### 🔹 **E-commerce Website**
 ➡️ Responsive ecommerce UI  
